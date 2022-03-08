@@ -8,5 +8,6 @@ public class A {
 		else {
 			System.out.println("Nikal lo");
 		}
+		System.out.println("Bye Bye..");
 	}
 }	
